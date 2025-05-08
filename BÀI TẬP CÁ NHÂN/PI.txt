@@ -1,0 +1,4 @@
+So diem nam trong hinh tron: 39212/50000
+So PI tinh duoc: 3.136960
+
+// File PI.txt sẽ xuất ra màn hình Desktop
